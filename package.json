@@ -5,6 +5,6 @@
     "selenium-webdriver": "^4.23.0"
   },
   "scripts": {
-    "mocha": "node node_modules/mocha/bin/mocha.js"
+    "mocha": "node node_modules/mocha/bin/mocha"
   }
 }
